@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854435803640",
+    "project_id": "republicday-7de92",
+    "storage_bucket": "republicday-7de92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854435803640:android:4641b44b6e77aeca1be60d",
+        "android_client_info": {
+          "package_name": "com.example.republic_day_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854435803640-o5c98fi6oih43d6j9a4n80qhmh7o005m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToNOGYzHvs5wG-3RhQKRQja1CLsFBcGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854435803640-o5c98fi6oih43d6j9a4n80qhmh7o005m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
